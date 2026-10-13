@@ -1,0 +1,11 @@
+dataset,part,messages,spam,spam_share_%
+SMS Spam Collection,train,4040,468,11.6
+SMS Spam Collection,test,1010,117,11.6
+SMS Spam Collection,removed: exact duplicates,403,,
+SMS Spam Collection,removed: empty after cleaning,9,,
+SMS Spam Collection,removed: near-duplicates after cleaning,110,,
+Enron-Spam,train,23179,11594,50.0
+Enron-Spam,test,5795,2899,50.0
+Enron-Spam,removed: exact duplicates,3203,,
+Enron-Spam,removed: empty after cleaning,1,,
+Enron-Spam,removed: near-duplicates after cleaning,1487,,

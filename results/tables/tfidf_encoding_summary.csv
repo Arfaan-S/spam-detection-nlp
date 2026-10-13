@@ -1,0 +1,5 @@
+dataset,n_gram_range,train_shape,test_shape,features,sparsity_%
+SMS Spam Collection,"(1, 1)","(4040, 2724)","(1010, 2724)",2724,99.73
+SMS Spam Collection,"(1, 2)","(4040, 5593)","(1010, 5593)",5593,99.82
+Enron-Spam,"(1, 1)","(23179, 56051)","(5795, 56051)",56051,99.85
+Enron-Spam,"(1, 2)","(23179, 395138)","(5795, 395138)",395138,99.96
