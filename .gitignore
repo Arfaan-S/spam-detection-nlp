@@ -1,0 +1,6 @@
+# Raw datasets are downloaded by src/download_data.py and are not stored in the repository
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/processed/
