@@ -1,0 +1,4 @@
+model_A,model_B,only_A_correct,only_B_correct,p_value
+Naive Bayes,Linear SVM,5,7,0.7744140625
+Naive Bayes,Logistic Regression,3,9,0.14599609375
+Linear SVM,Logistic Regression,1,5,0.21875

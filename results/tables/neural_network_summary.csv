@@ -1,0 +1,5 @@
+,accuracy,accuracy,precision,precision,recall,recall,f1,f1,roc_auc,roc_auc,train_seconds,train_seconds,best_epoch,best_epoch
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+dataset,,,,,,,,,,,,,,
+enron,0.9883,0.0019,0.9842,0.003,0.9925,0.0008,0.9883,0.0019,0.999,0.0001,526.8831,3.0789,10.3333,1.5275
+sms,0.9805,0.005,0.959,0.015,0.8689,0.0345,0.9116,0.0236,0.986,0.0013,20.9237,0.2134,7.6667,2.5166
