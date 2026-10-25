@@ -1,3 +1,0 @@
-dataset,messages,legitimate,spam,spam_share_%,exact_duplicates,duplicates_%,texts_with_both_labels,median_words_ham,median_words_spam,mean_words_ham,mean_words_spam
-SMS Spam Collection,5572,4825,747,13.4,403,7.2,0,10.0,24.0,14.1,22.8
-Enron-Spam,33665,16545,17120,50.9,3203,9.5,0,120.0,97.0,259.3,198.4
