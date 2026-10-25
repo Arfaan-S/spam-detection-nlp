@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn==1.9.1
+matplotlib
+nltk
+scipy
+joblib
+torch
