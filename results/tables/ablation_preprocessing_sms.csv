@@ -1,0 +1,16 @@
+variant,model,cv_f1_mean,cv_f1_std
+A lowercase only,Naive Bayes,0.8271030904697783,0.04068681001251497
+A lowercase only,Linear SVM,0.9224232178078331,0.01791666314586297
+A lowercase only,Logistic Regression,0.8149237892035398,0.028983281757041394
+"B + placeholders (url, money, number)",Naive Bayes,0.8296790328577919,0.046344994679944185
+"B + placeholders (url, money, number)",Linear SVM,0.9403499202850633,0.020669159805918564
+"B + placeholders (url, money, number)",Logistic Regression,0.8889585542662466,0.027771442420760923
+C + stop words removed,Naive Bayes,0.8617706040765599,0.052658008773609745
+C + stop words removed,Linear SVM,0.9313328624592347,0.02456575642004031
+C + stop words removed,Logistic Regression,0.8637918536758106,0.031636292742200645
+D + lemmatized,Naive Bayes,0.8677516246622321,0.04699324948278181
+D + lemmatized,Linear SVM,0.9324841621363362,0.02784304125007414
+D + lemmatized,Logistic Regression,0.8688340548340548,0.03475889511403886
+E + stemmed (instead of D),Naive Bayes,0.8762887734099157,0.044632104016204266
+E + stemmed (instead of D),Linear SVM,0.933387043039217,0.028161030204301024
+E + stemmed (instead of D),Logistic Regression,0.8743862395304829,0.0357061617389404
